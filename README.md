@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# TextTweak 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextTweak is a responsive and interactive React application that allows users to perform a variety of text transformations including converting to uppercase, lowercase, removing extra spaces, and more. It also includes a dark mode toggle for better user experience.
 
-## Available Scripts
+## 🔗 Live Demo
 
-In the project directory, you can run:
+Check out the live version : [TextTweak on GitHub Pages](https://05-jagritii.github.io/TextTweak/)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##  Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-  Convert text to **Upper Case**
+-  Convert text to **Lower Case**
+-  Text-to-speech support
+-  Stop text-to-speech
+-  Remove extra spaces
+-  Word and character count
+-  Dark/Light Mode toggle
+-  Responsive design using Bootstrap
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  Screenshots
 
-### `npm run build`
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light](![{79A5902B-804B-4C53-9A8D-D5A170CDD301}](https://github.com/user-attachments/assets/e8a07957-0176-467d-8fba-a99b82b11b2a)| ![Dark](![{60D83CE7-3985-4221-8E48-12A39C420EE3}](https://github.com/user-attachments/assets/7b019f9d-21a3-4319-8d81-19959b7b6627)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React JS
+- JavaScript
+- Bootstrap 5
+- HTML5 & CSS3
 
-### `npm run eject`
+---
+##  Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ Before you begin, make sure you have:
+- Node.js (v14 or higher)
+- npm (comes with Node.js)
+- A code editor like VS Code
+- Git installed
+- 
+##  Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 1. Clone the Repository
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/05-Jagritii/TextTweak.git
+cd TextTweak
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Install all required packages using npm:
+```bash
+npm install
+```
 
-## Learn More
+3. Start the Application
+```bash
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Visit `http://localhost:3000` in your browser.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   
