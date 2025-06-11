@@ -66,6 +66,11 @@ npm start
 
 Visit `http://localhost:3000` in your browser.
 
-
+## Author
+Jagriti Kanwar
+<br>
+Mail:[kanwarjagriti21@gmail.com](mailto:kanwarjagriti21@gmail.com)
+<br>
+LinkedIn: [Jagriti Kanwar](https://www.linkedin.com/in/jagriti-kanwar)
 
    
