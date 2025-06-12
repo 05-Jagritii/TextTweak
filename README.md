@@ -65,7 +65,22 @@ npm start
 ```
 
 Visit `http://localhost:3000` in your browser.
+## Project Structure
+```
+TextTweak/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Alert.js
+│   │   ├── Navbar.js
+│   │   └── TextForms.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── ...
 
+```
 ## Author
 Jagriti Kanwar
 <br>
